@@ -1,0 +1,29 @@
+.container-dados p{
+    position: relative;
+    left: 15px;
+    top: 5px;
+    font-size: 17px;
+}
+
+.container-dados label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container-dados{
+    position: relative;
+    left: 485px;
+    top: 100px;
+    border-radius: 20px;
+    width: 400px;
+    height: 160px;
+    background: #ffffff;
+    -webkit-box-shadow: 0px 0px 15px -2px rgba(0,0,0,0.4); 
+    box-shadow: 0px 0px 15px -2px rgba(0,0,0,0.4);
+}
+
+.container-dados h1{
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 24px;
+    padding: 8px;
+}

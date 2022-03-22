@@ -1,0 +1,47 @@
+.container-edit form{
+    width: 300px;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    background: #ffffff;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 10px;
+    -webkit-box-shadow: 0px 0px 15px -2px rgba(0,0,0,0.4); 
+    box-shadow: 0px 0px 15px -2px rgba(0,0,0,0.4);
+}
+
+.container-edit h1{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 17px;
+    text-align: center;
+}
+
+.container-edit input{
+    margin-top: 1px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    outline: none;
+}
+
+.container-edit button{
+    position: relative;
+    top: 13px;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    outline: none;
+}
+
+.container-edit label{
+    padding: 0px;
+    margin-left: 27px;
+    margin-top: 10px;
+}
+
+
